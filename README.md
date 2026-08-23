@@ -39,7 +39,7 @@
           │ (Uyum < %70)  │ (Uyum >= %70)
           ▼               ▼
 [5. LLM Otomatik Düzeltme] [6. Yayına Hazır Reklam Metinleri]
-
+```
 ---
 
 ## 📊 Keşifsel Veri Analizi (EDA) Çıktıları
