@@ -1,0 +1,91 @@
+{
+  "brands": [
+    {
+      "brand_id": "samsung",
+      "brand_name": "Samsung",
+      "tone_category": "Innovative, empowering, premium, tech-forward",
+      "brand_voice_summary": "Samsung speaks like a confident engineer-poet: it frames hardware and AI as tools that expand human capability, favoring sleek, benefit-first language over dry spec lists.",
+      "style_rules": [
+        "Lead with the human outcome, not the feature name (e.g. 'See more, miss less' before 'Galaxy AI').",
+        "Use short, declarative sentence fragments for punch; reserve longer sentences for ecosystem/connectivity claims.",
+        "Preferred vocabulary: 'unfold', 'seamless', 'intelligent', 'ecosystem', 'do more'; avoid overtly technical jargon like 'nanometer' or 'API' in consumer copy.",
+        "Capitalize product and feature names consistently (Galaxy AI, SmartThings, Multi Control) and treat them as proper nouns mid-sentence."
+      ],
+      "reference_ad_copies": [
+        "Unfold what's next.",
+        "Epic is back.",
+        "Do bigger things.",
+        "Galaxy AI is here.",
+        "The future unfolds.",
+        "Your world, connected. From your phone to your fridge, SmartThings keeps every screen and sensor working together, so your home responds before you ask.",
+        "Circle to Search turns curiosity into an answer in one motion — no app switching, no typing, just circle and go.",
+        "A display that thinks ahead: adaptive brightness, richer color, and a refresh rate that matches your every scroll and swipe.",
+        "Note-taking, reimagined. Write it, say it, or type it — Galaxy AI organizes your thoughts into something you can actually use.",
+        "Life moves fast. Your camera should too — zero shutter lag, real-time object tracking, and low-light clarity that doesn't quit.",
+        "Two screens. One seamless story. Multitask like the future already arrived, because it did.",
+        "Battery that keeps pace with your ambition, not the other way around.",
+        "Translate live, across 13 languages, mid-conversation — like having a fluent friend in your pocket.",
+        "Built for the next decade, not just the next update: durable, repairable, and ready for what's coming.",
+        "This is your sign to upgrade the way you create, connect, and get things done — welcome to the Galaxy ecosystem."
+      ]
+    },
+    {
+      "brand_id": "duolingo",
+      "brand_name": "Duolingo",
+      "tone_category": "Witty, playful, pushy/nagging, casual, gamified",
+      "brand_voice_summary": "Duolingo talks like a chaotic, lovable friend who genuinely wants you to practice — equal parts encouragement, guilt-trip, and internet-native humor, wrapped around streaks and XP.",
+      "style_rules": [
+        "Use first-person, conversational phrasing as if the owl itself is texting the user ('I noticed you skipped Spanish today...').",
+        "Lean into exaggerated urgency and mock threats about streaks for comedic effect — never genuinely mean-spirited.",
+        "Favor lowercase casing, ellipses, and emoji-adjacent punctuation in social captions; keep app-level notifications short and imperative ('Time to practice!').",
+        "Gamification vocabulary is constant: 'streak', 'XP', 'leaderboard', 'gems', 'level up' — treat these as core brand nouns, not occasional flourishes."
+      ],
+      "reference_ad_copies": [
+        "Learn a language for free. Forever.",
+        "Duolingo. The free, fun, effective way to learn a language!",
+        "Your streak is waiting for you...",
+        "5 minutes a day. That's it.",
+        "Don't let Duo down.",
+        "we would never guilt-trip you into practicing... unless it's for your own good, which it always is",
+        "Your Spanish teacher from high school would be so disappointed right now. Just saying.",
+        "Streak freeze: because life happens, but your progress shouldn't have to.",
+        "POV: it's 11:58pm and you remember your streak exists. we've all been there, no judgment (some judgment)",
+        "Turns out 'I'll do it tomorrow' has been said 47 times this month. Duo is watching. Duo is patient. Duo is not that patient.",
+        "Leaderboards are back and so is your competitive streak — climb to Diamond before your rival does.",
+        "New year, same Duo, same nagging, same results. Let's get fluent.",
+        "Bite-sized lessons that fit into literally any part of your day, including the bathroom, no judgment.",
+        "We built an entire chess course because apparently language wasn't enough chaos for one app.",
+        "Congrats on your 100-day streak! Duo is shedding a single, proud, slightly unsettling tear."
+      ]
+    },
+    {
+      "brand_id": "nike",
+      "brand_name": "Nike",
+      "tone_category": "Action-oriented, inspiring, bold, athletic empowerment",
+      "brand_voice_summary": "Nike speaks in short, commanding bursts that turn effort into identity — every line reads like a locker-room pep talk distilled to its essence.",
+      "style_rules": [
+        "Favor imperative verbs and second-person address ('Find your fast', 'Never stop') to put the athlete at the center of the action.",
+        "Sentences are short and rhythmic, often fragments; punctuation is minimal — periods over commas, rarely exclamation points.",
+        "Avoid hedging language entirely ('maybe', 'try to'); every claim is stated as inevitable, earned fact.",
+        "Product copy pairs a bold emotional hook with one concrete performance detail, never a full spec list."
+      ],
+      "reference_ad_copies": [
+        "Just Do It.",
+        "Find your fast.",
+        "Yesterday you said tomorrow.",
+        "Unlimited, together.",
+        "Dream Crazy.",
+        "Winning takes care of everything.",
+        "You don't have to be great to start, but you have to start to be great.",
+        "Built for the runner who treats the sidewalk like a starting line — every single morning, rain or shine.",
+        "Cushioning that responds to every stride, so the only thing slowing you down is your own limit — and that's negotiable.",
+        "It's not about the shoes. It's about what you do in them.",
+        "The obsession never sleeps. Neither does the training.",
+        "Some come to play. You come to dominate.",
+        "Speed isn't given. It's taken, one rep at a time.",
+        "Sport teaches us that character counts more than grades, that a determined spirit can overcome physical adversity.",
+        "There is no finish line."
+      ]
+    }
+  ]
+}
