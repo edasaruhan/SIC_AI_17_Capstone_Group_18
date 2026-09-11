@@ -68,11 +68,7 @@ Sistem tek bir ekranda: **paralel çoklu üslup üretimi** (Gemini), **metin-iç
 - **Metin Uzunluğu vs. CTR:** Kelime sayısının etkileşim üzerinde hafif negatif eğilimi var ($r \approx -0.04$). Kısa ve vurucu metinler daha yüksek performans gösteriyor.
 - **Aciliyet Paradoksu:** "Hemen", "Kaçırma", "Sınırlı" gibi agresif aciliyet ifadeleri içeren gönderilerin ortalama CTR'ı (%15.95), içermeyenlere (%21.51) kıyasla **daha düşük**. Kullanıcılar itip-kakıcı tonu cezalandırıyor.
 - **Korelasyon Analizi:** Dilbilgisel özniteliklerin CTR ile doğrusal korelasyonu düşük → doğrusal olmayan modellerin (XGBoost) tercih edilmesini doğrular.
-
-| Kelime Sayısı vs CTR | Özniteliklerin CTR Etkisi | Korelasyon Isı Haritası |
-|:---:|:---:|:---:|
-| ![Word Count vs CTR](reports/eda_figures/word_count_vs_ctr.png) | ![Feature Impact](reports/eda_figures/ctr_by_features.png) | ![Correlation Heatmap](reports/eda_figures/correlation_heatmap.png) |
-
+  
 ---
 
 ## 🛠️ Yapay Zekâ ve Skorlama Moturu
