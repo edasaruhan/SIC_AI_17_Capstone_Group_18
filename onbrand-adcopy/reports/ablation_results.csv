@@ -1,0 +1,10 @@
+subset,model,cv_r2_mean,cv_r2_std
+structural,Linear,-0.0296,0.0176
+structural,RandomForest,-0.2529,0.1075
+structural,XGBoost,-0.1329,0.0346
+structural+sentiment/tox,Linear,-0.034,0.0175
+structural+sentiment/tox,RandomForest,-0.1339,0.0534
+structural+sentiment/tox,XGBoost,-0.139,0.0419
+structural+full (tam),Linear,-0.0324,0.0171
+structural+full (tam),RandomForest,-0.1292,0.0616
+structural+full (tam),XGBoost,-0.1404,0.0312

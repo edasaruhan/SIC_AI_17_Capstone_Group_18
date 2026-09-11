@@ -1,0 +1,18 @@
+{
+  "char_count": 0.0783252939581871,
+  "word_count": 0.07026743143796921,
+  "has_question": 0.06412184983491898,
+  "has_exclamation": 0.06507227569818497,
+  "urgency_count": 0.08247643709182739,
+  "sentiment_score": 0.08827508985996246,
+  "toxicity_score": 0.09008131176233292,
+  "emoji_count": 0.0,
+  "hashtag_count": 0.0755457952618599,
+  "has_hashtag": 0.0,
+  "has_mention": 0.08517558127641678,
+  "has_cta": 0.0,
+  "avg_word_len": 0.07756973803043365,
+  "word_diversity": 0.0743015706539154,
+  "all_caps_ratio": 0.07431644201278687,
+  "numeric_ratio": 0.07447114586830139
+}

@@ -1,0 +1,38 @@
+{
+  "dataset": "Social_Media_Engagement_Dataset.csv",
+  "n_rows": 1197,
+  "full_xgb": {
+    "r2": 0.8711442329049711,
+    "rmse": 22.745693315914156,
+    "mae": 7.245179156605875
+  },
+  "full_linear": {
+    "r2": 0.899708600582072,
+    "rmse": 20.066844924493203,
+    "mae": 7.397596497907989
+  },
+  "content_xgb": {
+    "r2": -0.04953956306660823,
+    "rmse": 64.91523833737592,
+    "mae": 21.455414916753895
+  },
+  "content_cv_r2_mean": -0.057252284017828045,
+  "content_importances": {
+    "char_count": 0.0783252939581871,
+    "word_count": 0.07026743143796921,
+    "has_question": 0.06412184983491898,
+    "has_exclamation": 0.06507227569818497,
+    "urgency_count": 0.08247643709182739,
+    "sentiment_score": 0.08827508985996246,
+    "toxicity_score": 0.09008131176233292,
+    "emoji_count": 0.0,
+    "hashtag_count": 0.0755457952618599,
+    "has_hashtag": 0.0,
+    "has_mention": 0.08517558127641678,
+    "has_cta": 0.0,
+    "avg_word_len": 0.07756973803043365,
+    "word_diversity": 0.0743015706539154,
+    "all_caps_ratio": 0.07431644201278687,
+    "numeric_ratio": 0.07447114586830139
+  }
+}

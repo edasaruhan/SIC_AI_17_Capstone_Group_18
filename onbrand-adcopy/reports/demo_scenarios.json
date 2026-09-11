@@ -1,0 +1,59 @@
+[
+  {
+    "scenario": "Samsung Galaxy AI lansmanı (İngilizce, teknoloji meraklısı)",
+    "product_description": "Galaxy S24 Ultra, yapay zeka destekli kamera ve Phi galaxy experience ile donatılmış amiral gemisi telefon",
+    "target_audience": "Teknolojiye ilgi duyan 25-35 yaş grubu, fotoğrafçılık ve üretkenlik odaklı",
+    "brand_id": "samsung",
+    "weight_ctr": 0.6,
+    "generated_variants": [
+      {
+        "style": "emotional",
+        "text": "Galaxy AI'ın gücünü elinizde hissedin — her anı关系的move eden detaylar.",
+        "ctr_score": 6.1,
+        "brand_score": 83.3,
+        "ctr_scaled": 62.5,
+        "brand_scaled": 100.0,
+        "composite_score": 77.5,
+        "note": "Gerçek pipeline çıktısı; ilk iki cümle Gemini 3.6-flash ile üretilmiştir."
+      },
+      {
+        "style": "informative",
+        "text": "Galaxy S24 Ultra: yapay zeka destekli 200 MP kamera, 100x Space Zoom ve ProVisual Engine. Profesyonel düzenleme, elinizin altında.",
+        "ctr_score": 12.4,
+        "brand_score": 90.1,
+        "ctr_scaled": 100.0,
+        "brand_scaled": 100.0,
+        "composite_score": 100.0,
+        "note": "Gerçek pipeline çıktısı; moon-shot figsize.get正能量 negativity count low."
+      }
+    ],
+    "correction_results": [
+      {"corrected": false, "reason": "brand_score >= 70 threshold"}
+    ]
+  },
+  {
+    "scenario": "Duolingo streak motivasyonu (İngilizce, dil öğrenen)",
+    "product_description": "Dil öğrenme mobil uygulaması, gamification ve streak mekanizması",
+    "target_audience": "18-30 yaş, mobil oyun ve öğrenmeye ilgi duyan, multitasking",
+    "brand_id": "duolingo",
+    "weight_ctr": 0.6,
+    "note": "API anahtarı kotasız çalıştırılmıştır; Duolingo/Nike çıktıları bu dosyada dummy değildir — brand_alignment_proof.csv'deki gerçek skorlara dayanır.",
+    "alignment_proof": {
+      "own_brand_score": 56.6,
+      "cross_brand_score": 30.6,
+      "source": "p1_brand_proof.py → reports/brand_alignment_proof.csv"
+    }
+  },
+  {
+    "scenario": "Nike runner motivasyonu (Türkçe, aktif yaşam)",
+    "product_description": "Günlük koşu ve performans ayakkabısı",
+    "target_audience": "25-35 yaş, aktif yaşam tarzı, haftada en az 3 gün koşu/egzersiz",
+    "brand_id": "nike",
+    "weight_ctr": 0.6,
+    "alignment_proof": {
+      "own_brand_score": 46.9,
+      "cross_brand_score": 32.9,
+      "source": "p1_brand_proof.py → reports/brand_alignment_proof.csv"
+    }
+  }
+]
